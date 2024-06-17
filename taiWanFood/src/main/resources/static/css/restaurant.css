@@ -1,0 +1,8 @@
+.col-md-4{
+	min-height: 100px;
+}
+.restaurantClass{
+	border: 10px solid darkslategray;
+	padding: 20px;
+	margin:10px;
+}
